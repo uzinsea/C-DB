@@ -1,0 +1,10 @@
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\bin\Debug\WindowsFormsApplast.exe.config
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\bin\Debug\WindowsFormsApplast.exe
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\bin\Debug\WindowsFormsApplast.pdb
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\obj\Debug\WindowsFormsApplast.csprojAssemblyReference.cache
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\obj\Debug\WindowsFormsApplast.Form1.resources
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\obj\Debug\WindowsFormsApplast.Properties.Resources.resources
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\obj\Debug\WindowsFormsApplast.csproj.GenerateResource.cache
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\obj\Debug\WindowsFormsApplast.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\obj\Debug\WindowsFormsApplast.exe
+C:\Users\KOSTA\Source\Repos\WindowsFormsApplast\WindowsFormsApplast\obj\Debug\WindowsFormsApplast.pdb

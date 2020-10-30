@@ -1,0 +1,50 @@
+﻿@model WebApplication5_2.Models.sandwich
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>sandwich</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.fname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fDesc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fDesc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fPrice)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.fid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

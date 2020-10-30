@@ -1,0 +1,10 @@
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\bin\Release\WinApp2.exe.config
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\bin\Release\WinApp2.exe
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\bin\Release\WinApp2.pdb
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\obj\Release\WinApp2.Form1.resources
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\obj\Release\WinApp2.Form2.resources
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\obj\Release\WinApp2.Properties.Resources.resources
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\obj\Release\WinApp2.csproj.GenerateResource.cache
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\obj\Release\WinApp2.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\obj\Release\WinApp2.exe
+C:\Users\KOSTA\Source\Repos\WinApp2\WinApp2\obj\Release\WinApp2.pdb

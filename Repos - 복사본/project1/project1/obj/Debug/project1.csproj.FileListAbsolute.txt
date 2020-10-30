@@ -1,0 +1,13 @@
+C:\Users\KOSTA\Source\Repos\project1\project1\bin\Debug\project1.exe.config
+C:\Users\KOSTA\Source\Repos\project1\project1\bin\Debug\project1.exe
+C:\Users\KOSTA\Source\Repos\project1\project1\bin\Debug\project1.pdb
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.Login.resources
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.exe
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.pdb
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.SignUp.resources
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.MyOrder.resources
+C:\Users\KOSTA\Source\Repos\project1\project1\obj\Debug\project1.Home.resources
